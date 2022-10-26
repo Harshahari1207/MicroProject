@@ -1,0 +1,51 @@
+#main{
+display: block;
+    background: whitesmoke;
+}
+#title{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#img-div{
+    width: 98%;
+    height: 20%;
+    background-color: white;
+    margin-left: 14px;
+}
+.img{
+    width: 50%;
+    background-repeat: no-repeat;
+    padding: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading1{
+    text-align: center;
+}
+#tribute-info{
+    width: 100%;
+    height: 62%;
+
+}
+
+#info{
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading2{
+    text-align: center;
+}
+
+.down{
+    font-style: italic;
+}
+
+.bottom{
+    font-style: italic;
+}
